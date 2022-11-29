@@ -1,8 +1,8 @@
-## HBUI Webpack Boilerplate Typescript)
+## HBUI Webpack Boilerplate (Typescript)
 
 This is a Typescript-ready Webpack project with full integration of the [HBUI Hummingbot Design System](https://hbui.netlify.app/)
 
-See [Demo](https://hbui-boilerplate-webpack.netlify.app/)
+See [Demo](https://hbui-boilerplate-webpack-ts.netlify.app/)
 
 Standard Javascript version can be found [here](https://github.com/CoinAlpha/hbui-boilerplate-webpack).
 
@@ -34,8 +34,6 @@ http://localhost:8080
 
 
 ### References
-
-[CRA Documentation](https://create-react-app.dev/docs/getting-started)
 
 [HBUI Hummingbot Design System](https://hbui.netlify.app/)
 
