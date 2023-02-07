@@ -6,7 +6,10 @@ See [Demo](https://hbui-boilerplate-webpack-ts.netlify.app/)
 
 Standard Javascript version can be found [here](https://github.com/CoinAlpha/hbui-boilerplate-webpack).
 
-Use this template if you need to build a SPA (single page app) with Typescript. If you are looking to build a standard website where SEO is important, consider using the [Gatsby](https://github.com/CoinAlpha/hbui-boilerplate-gatsby) boilerplate instead.
+Other versions of this project:
+
+[Gatsby](https://github.com/CoinAlpha/hbui-boilerplate-gatsby)
+[Next.js](https://github.com/CoinAlpha/hbui-boilerplate-nextjs)
 
 ### Instructions
 
