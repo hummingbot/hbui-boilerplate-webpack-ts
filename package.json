@@ -11,7 +11,7 @@
     "serve": "npx serve public"
   },
   "dependencies": {
-    "@hummingbot/hbui": "^1.8.4",
+    "@hummingbot/hbui": "^1.8.20",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.2",
     "file-loader": "^6.2.0",
